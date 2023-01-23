@@ -1,0 +1,10 @@
+{
+  "name": "quasar2-dokerized",
+  "version": "0.0.1",
+  "description": "quasar2 dokerized",
+  "author": "y.ivanchenko <jurgenet@gmail.com>",
+  "private": true,
+  "scripts": {
+    "docker-up": "docker-compose up --build"
+  }
+}
