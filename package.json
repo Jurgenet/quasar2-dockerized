@@ -1,7 +1,7 @@
 {
-  "name": "quasar2-dokerized",
+  "name": "quasar2ssr-dokerized",
   "version": "0.0.1",
-  "description": "quasar2 dokerized",
+  "description": "quasar 2 ssr dokerized",
   "author": "y.ivanchenko <jurgenet@gmail.com>",
   "private": true,
   "scripts": {
